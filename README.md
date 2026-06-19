@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-sangran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Labios que sangran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-sangran/) |
+| **Get License** | [Commercial Licensing for Labios que sangran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-sangran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `c8f057e1fc493e073ce1b133576efcbea9bf946648ed40955064d8eae762fc28` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `cd9a4f7815d5c418835986625db1c7c71fb6d1478680dc136ed4a009ba324cef` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Labios q
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:08:10.787457 | `v1` | `c8f057e1fc493e073ce1b133576efcbea9bf946648ed40955064d8eae762fc28` | `35aa1e73a1ce6834af56091a3914f6055c1fc3a73815e821a5f986c1df863686` | `2026-06-20_labios-que-sangran-v1.txt` |
+| 2026-06-20T01:18:32.131434 | `v2` | `cd9a4f7815d5c418835986625db1c7c71fb6d1478680dc136ed4a009ba324cef` | `7853b4f2ba0048c8d4a91352c2f9954bece23280954b8ebf9bc35f862bf3a995` | `2026-06-20_labios-que-sangran-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
