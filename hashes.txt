@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios que sangran
+
+This log tracks the cryptographic history and versioning for the song **Labios que sangran** (labios-que-sangran).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:08:10.787457 | `v1` | `c8f057e1fc493e073ce1b133576efcbea9bf946648ed40955064d8eae762fc28` | `35aa1e73a1ce6834af56091a3914f6055c1fc3a73815e821a5f986c1df863686` | `2026-06-20_labios-que-sangran-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
