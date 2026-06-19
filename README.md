@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Labios que sangran |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-sangran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Labios que sangran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-sangran/) |
+| **Get License** | [Request Licensing for Labios que sangran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-sangran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Otra noche en la ciudad, tu perfume me domina
-> Tus ojos en la sombra, mami, pura adrenalina
-> Tus labios que sangran pasión, un veneno que fascina
-> You're the only one I want, mi diabla divina
+> Labios que sangran por mi nombre
+> Bajo la luna de tu desorden
+> Sabor a sal entre tu piel y el aire
+> No hay regreso cuando empieza este baile
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
